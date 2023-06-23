@@ -27,4 +27,4 @@ I could increase the N value of this func. but this is not so necessary in my op
 
 # Eval bar 🤯
 
-[alt text](https://github.com/plugg1N/worst-chess-game/blob/main/eval.jpg?raw=true)
+![](https://github.com/plugg1N/worst-chess-game/blob/main/eval.jpg?raw=true)
